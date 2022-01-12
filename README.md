@@ -12,11 +12,11 @@
 
 ### Screenshot
 
-![](./design/printscreen.jpg)
+![](./design/printscreen.JPG)
 
-### Screenshot
+### Screenshot - mobile
 
-![](./design/printscreen-2.jpg)
+![](./design/printscreen-2.JPG)
 
 ### Links
 
